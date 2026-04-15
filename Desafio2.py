@@ -1,4 +1,0 @@
-nome = "Pizza"
-quantidade = 10
-print(f"Produto: {nome}")
-print(f"Quantidade: {quantidade}")
